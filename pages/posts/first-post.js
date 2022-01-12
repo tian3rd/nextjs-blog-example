@@ -7,7 +7,6 @@ import Layout from "../../components/layout";
 const FirstPost = () => {
   return (
     <Layout>
-      {/* {console.log("FirstPost")} */}
       <Head>
         <title>First Post!</title>
       </Head>
